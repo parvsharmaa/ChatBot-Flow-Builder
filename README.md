@@ -1,5 +1,7 @@
 A React application built with [React Flow](https://reactflow.dev/) and [Next.js](https://nextjs.org/).
 
+### Check out the deployed application [here](https://chatbot-flow-builder-puce.vercel.app/) on Vercel
+
 # Setup and Run Project
 
 1. run `npm install` inside the root directory, to install dependencies.
