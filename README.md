@@ -1,5 +1,10 @@
 A React application built with [React Flow](https://reactflow.dev/) and [Next.js](https://nextjs.org/).
 
+# Setup and Run Project
+
+1. run `npm install` inside the root directory, to install dependencies.
+2. run `npm run dev` to start the project on the localhost.
+
 
 # Features:
 
