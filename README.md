@@ -19,13 +19,8 @@ A React application built with [React Flow](https://reactflow.dev/) and [Next.js
     1. Target of a connecting edge
     2. Can have **more than one edge** connecting to a target handle 
 6. **Settings Panel**
-    
-    ![Settings panel.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38e424e4-01cd-462b-a4af-29de9d2c404c/Settings_panel.jpeg)
-    
     1. Settings Panel will replace the Nodes Panel when a Node is selected
     2. It has a text field to edit text of the selected Text Node
 7. **Save Button**
     1. Button to save the flow 
     2. **Save button press will show an error if there are more than one Nodes and more than one Node has empty target handles**
-
-    ![Screenshot 2022-10-24 at 10.41.29 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b33c6166-aa3e-4c1a-b1b8-1dbd010e1e2e/Screenshot_2022-10-24_at_10.41.29_PM.png)
